@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "notifysender",
+        "uuid": 34999440,
+        "checksum": "5qtj65"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
